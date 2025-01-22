@@ -15,7 +15,7 @@ Welcome to the **MySkill Data Analysis Final Projects** repository. This reposit
   - Recommended strategies for underperforming brands.
 - **Key Tools**: PostgreSQL, SQL.
 
-[Read the Full SQL Project Details](./SQL_README.md)
+[Read the Full SQL Project Details](SQL/README.md)
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to the **MySkill Data Analysis Final Projects** repository. This reposit
   - Recommended promotional strategies based on customer segmentation.
 - **Key Tools**: Python, `pandas`, `numpy`, `matplotlib`, `seaborn`.
 
-[Read the Full Python Project Details](./Python_README.md)
+[Read the Full Python Project Details](Python/README.md)
 
 ---
 
