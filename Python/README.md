@@ -52,3 +52,18 @@ To analyze e-commerce sales data, evaluate product performance, customer behavio
 
 - Bar charts were used to compare product performance, sales trends, and customer behaviors effectively.
 - Interactive insights were extracted from the analysis and presented visually for clarity.
+
+## 🎯 Team Members (Kelompok B4)
+- Amos Christ Kevin  
+- Dickna Nenden Woro Ramadityawati  
+- Dani Harsalisman Febrian Putra  
+- Hanif Dwi Satria  
+- Irfan Rasyid  
+- Marchenko Svesda  
+- Muhamad Fatih Praga Ilhaq  
+- Nando Rifki Utama Putra  
+- Reza Muhamad Ricky  
+- Sharfina Zahra Akbar  
+- Adinda Aulia Hudianti  
+
+## 🎉 Thank You!
